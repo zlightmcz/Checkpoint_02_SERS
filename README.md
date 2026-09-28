@@ -4,12 +4,15 @@
 
 | Nome | Matrícula / RA | GitHub |
 |------|----------------|--------|
-| _Nome do integrante 1_ | _000000_ | _@usuario_ |
-| _Nome do integrante 2_ | _000000_ | _@usuario_ |
-| _Nome do integrante 3_ | _000000_ | _@usuario_ |
+| Gustavo Guedes Pereira — RM 569779
+| Lucas Angelo — RM 569530
+| Gustavo de Souza — RM 570746
+| Murillo Boyadjian | 570774
+| Arthur Tae — RM 570647
+| Gabriel Rodrigues — RM 569322
 
-**Disciplina / Turma:** _preencher_  
-**Professor(a):** _preencher_
+**Disciplina / Turma:** 1CCPJ
+**Professor(a):** Andre Tritiack
 
 ---
 

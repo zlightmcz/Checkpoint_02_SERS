@@ -1,9 +1,6 @@
 # APIs de Energia Renovável e Aprendizado de Máquina
 
 ## 👥 Integrantes
-
-| Nome | Matrícula / RA | GitHub |
-|------|----------------|--------|
 | Gustavo Guedes Pereira — RM 569779
 | Lucas Angelo — RM 569530
 | Gustavo de Souza — RM 570746

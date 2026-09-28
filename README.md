@@ -4,7 +4,7 @@
 | Gustavo Guedes Pereira — RM 569779
 | Lucas Angelo — RM 569530
 | Gustavo de Souza — RM 570746
-| Murillo Boyadjian | 570774
+| Murillo Boyadjian - RM 570774
 | Arthur Tae — RM 570647
 | Gabriel Rodrigues — RM 569322
 
